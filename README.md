@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/empire.jpg" alt="The README Empire — an archive where corrections become law" width="100%">
+</p>
+
 # The README Empire
 
 **Turning human chaos into machine-readable law.**
@@ -16,13 +20,13 @@ How much of a human can be compiled into instructions before the tools start act
 
 ## Lab Creatures
 
-🧬 **Self-Evolving CLAUDE.md**
+🧬 **[Self-Evolving CLAUDE.md](https://github.com/dennykim123/self-evolving-claude-md)**
 A living instruction file that eats corrections and grows new laws.
 
 🧠 **Executable Memory**
 A system for converting mistakes, preferences, scars, and recurring decisions into machine-readable rituals.
 
-🛸 **Model Routing**
+🛸 **[Model Routing](https://github.com/dennykim123/self-evolving-claude-md#3-fusion-routing-harnessmd-3)**
 A small council of alien brains deciding which model should think, judge, summarize, refactor, or shut up.
 
 🧟 **Tiny Agent Bureaucracy**
@@ -30,6 +34,11 @@ Software creatures pretending to be interns, reviewers, clerks, editors, archite
 
 🎮 **Game-Shaped Workflows**
 A theory that boring work becomes survivable when treated as quests, loops, constraints, rewards, and boss fights.
+
+## Currently Escaped From the Lab
+
+- **[self-evolving-claude-md](https://github.com/dennykim123/self-evolving-claude-md)** — the living instruction file, open-sourced. It ate 106 corrections and became law.
+- **[LaunchMap](https://launchmap.vercel.app)** — a map for finding your first 1,000 humans. Paste a link; an alien brain tells you the three things that matter now.
 
 ## Field Notes
 
