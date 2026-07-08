@@ -39,6 +39,7 @@ A theory that boring work becomes survivable when treated as quests, loops, cons
 
 - **[self-evolving-claude-md](https://github.com/dennykim123/self-evolving-claude-md)** — the living instruction file, open-sourced. It ate 106 corrections and became law.
 - **[LaunchMap](https://launchmap.vercel.app)** — a map for finding your first 1,000 humans. Paste a link; an alien brain tells you the three things that matter now.
+- **[Claude & Codex Usage Battery](https://github.com/dennykim123/claude-codex-battery)** — a menu-bar familiar that drains like a battery, so you feel your AI rate limits before they bite. Pure-JS icons, zero dependencies, self-updating.
 
 ## Field Notes
 
